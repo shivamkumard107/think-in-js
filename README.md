@@ -1,7 +1,10 @@
-Use any editor to view and edit these notes but I suggest to use obsidian as there will be some added benefits
+# Think In JS
+
+Use any editor to view and edit these notes but I suggest to use *Obsidian* as there will be some benefits
 1. Several plugins which I used for **formatting** will only work in Obsidian (in .obsidian files)
 2. You will be missing out on all the **.canvas** file. Obsidian canvas is awesome. 
 3. and the Obsidian **Graph View** 🤤
-![[Screenshot 2023-03-05 at 9.17.13 PM.png]]
+
+![alt text](https://github.com/shivamkumard107/think-in-js/blob/master/Screenshot%202023-03-05%20at%209.17.13%20PM.png)
 
 > PS: Feel free to fork for building your notes upon it. 
