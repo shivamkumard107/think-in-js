@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "16. Functions in JS/Functions in JS.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "856f94ad36403cf2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.50271224975586
+    "width": 240.50390243530273
   },
   "right": {
     "id": "554e0fcba5ac3627",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "16. Functions in JS/Functions in JS.md",
+                "file": "README.md.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "16. Functions in JS/Functions in JS.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "16. Functions in JS/Functions in JS.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -171,8 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc5cc3e50163c050",
+  "active": "5f1a96aed7377478",
   "lastOpenFiles": [
+    "Screenshot 2023-03-05 at 9.17.13 PM.png",
+    "16. Functions in JS/Functions in JS.md",
+    "README.md.md",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
@@ -183,7 +194,6 @@
     "assets/Screenshot 2023-02-12 at 2.09.37 PM.png",
     "assets/Screenshot 2023-02-12 at 1.49.18 PM.png",
     "assets/Pasted image 20230226180007.png",
-    "assets/Pasted image 20230226175617.png",
     "41. E-commerce V4/Reference Relationship Example.md",
     "41. E-commerce V4/Pagination.md",
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
@@ -200,7 +210,6 @@
     "10. CSS Grids and GridLayout/CSS Grids and GridLayout.md",
     "18. Higher Order f(n), Closure & Array methods/Higher Order f(n), Closure & Array methods.md",
     "17 Javascript Question Practice/Javascript Question Practice.md",
-    "16. Functions in JS/Functions in JS.md",
     "29. jQuery AJAX/Library Vs Framework Comparison.md",
     "05. Specificity and Inheritance/Specificity and Inheritance.md",
     "Nunjucks.md",
@@ -213,7 +222,6 @@
     "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
-    "38.1. Ecommerce Project Setup/E-commerce Website.md",
     "04. CSS selectors/Demo.canvas",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "39. E-commerce V2/Leetcode working.canvas",
