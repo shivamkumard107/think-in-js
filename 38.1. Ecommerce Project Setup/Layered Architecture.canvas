@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"type":"text","text":"#### Routes\n\nDB Connection\nRoutes, Middlewares, View engine\n","id":"016599896379f6f9","x":-580,"y":-440,"width":160,"height":332},
+		{"type":"text","text":"#### Controller\n\nHTTP Response and Request","id":"703e9a50d5f439d7","x":-320,"y":-440,"width":160,"height":332},
+		{"type":"text","text":"#### Service\n\nBusiness logic","id":"23ba2cdc7197eacf","x":-40,"y":-440,"width":160,"height":332},
+		{"type":"text","text":"#### Repository\n\nQuery in DB","id":"f7e229ec8f093bd0","x":220,"y":-440,"width":160,"height":332}
+	],
+	"edges":[
+		{"id":"5c19d1b0cf3cf025","fromNode":"016599896379f6f9","fromSide":"top","toNode":"703e9a50d5f439d7","toSide":"top"},
+		{"id":"59b2e2efceeb9652","fromNode":"703e9a50d5f439d7","fromSide":"top","toNode":"23ba2cdc7197eacf","toSide":"top"},
+		{"id":"b981dddbc258f8f0","fromNode":"23ba2cdc7197eacf","fromSide":"top","toNode":"f7e229ec8f093bd0","toSide":"top"},
+		{"id":"0915694475aa408f","fromNode":"703e9a50d5f439d7","fromSide":"left","toNode":"016599896379f6f9","toSide":"right"},
+		{"id":"9759119e328209a0","fromNode":"23ba2cdc7197eacf","fromSide":"left","toNode":"703e9a50d5f439d7","toSide":"right"},
+		{"id":"f3dde067e2e39b34","fromNode":"f7e229ec8f093bd0","fromSide":"left","toNode":"23ba2cdc7197eacf","toSide":"right"}
+	]
+}

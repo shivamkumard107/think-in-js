@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"e2214a0c0c8c1e2b","x":-360,"y":-160,"width":250,"height":60,"type":"text","text":"Review"},
+		{"id":"e5d5aa779344afe8","x":100,"y":-160,"width":250,"height":60,"type":"text","text":"Actor"},
+		{"id":"2c4cd62b709f7673","x":100,"y":-340,"width":250,"height":60,"type":"text","text":"Studio"},
+		{"id":"04b8d16ce250a5de","x":-360,"y":-340,"width":250,"height":60,"type":"text","text":"Movie"}
+	],
+	"edges":[
+		{"id":"9e63f9f20a368d2d","fromNode":"04b8d16ce250a5de","fromSide":"right","toNode":"e5d5aa779344afe8","toSide":"left","fromEnd":"arrow","label":"N : N"},
+		{"id":"68109efeff42c895","fromNode":"04b8d16ce250a5de","fromSide":"top","toNode":"2c4cd62b709f7673","toSide":"left","label":"1 : 1"},
+		{"id":"f68ddaf8bc05e8c2","fromNode":"04b8d16ce250a5de","fromSide":"bottom","toNode":"e2214a0c0c8c1e2b","toSide":"top","label":"1 : N"}
+	]
+}

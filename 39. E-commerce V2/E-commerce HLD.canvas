@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Application","id":"794bb5a5e4071915","x":-420,"y":-300,"width":180,"height":240},
+		{"type":"text","text":"Load Balancer\n(Nginx)","id":"e9f00044cc0f9fc2","x":-140,"y":-240,"width":198,"height":229,"color":"1"},
+		{"type":"text","text":"MySQL DB","id":"22f9640e6be7f2c3","x":723,"y":414,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Payment service","id":"5523231d177ce714","x":345,"y":-155,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Kafka Queue","id":"15c81d237a9b67bd","x":723,"y":-31,"width":157,"height":50},
+		{"type":"text","text":"Order Service","id":"c833926049314049","x":345,"y":19,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"MySQL DB","id":"983856842407c38d","x":0,"y":79,"width":160,"height":60,"color":"3"},
+		{"type":"text","text":"Inventory","id":"621f90fa1c3df50d","x":345,"y":-330,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"MongoDB","id":"83427b66718266a6","x":560,"y":-584,"width":250,"height":68,"color":"3"},
+		{"type":"text","text":"Elastic Search","id":"d9992581571bd04e","x":58,"y":-576,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"DB","id":"f9289cd50952c496","x":723,"y":-240,"width":250,"height":60,"color":"3"},
+		{"type":"text","text":"Notification Service","id":"65d3c73603d11575","x":345,"y":240,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"b887e018e1c0ea8e","fromNode":"794bb5a5e4071915","fromSide":"right","toNode":"e9f00044cc0f9fc2","toSide":"left"},
+		{"id":"663fdc6d0585bd67","fromNode":"e9f00044cc0f9fc2","fromSide":"right","toNode":"621f90fa1c3df50d","toSide":"left","fromEnd":"arrow"},
+		{"id":"871e89c44d0e78ff","fromNode":"621f90fa1c3df50d","fromSide":"top","toNode":"d9992581571bd04e","toSide":"bottom"},
+		{"id":"ab8b72677390e0bb","fromNode":"621f90fa1c3df50d","fromSide":"top","toNode":"83427b66718266a6","toSide":"bottom"},
+		{"id":"6a5ed96b15032205","fromNode":"e9f00044cc0f9fc2","fromSide":"right","toNode":"5523231d177ce714","toSide":"left"},
+		{"id":"dc4bc8667e4f0e91","fromNode":"5523231d177ce714","fromSide":"right","toNode":"f9289cd50952c496","toSide":"left"},
+		{"id":"7a24cf56cecc97e0","fromNode":"5523231d177ce714","fromSide":"right","toNode":"15c81d237a9b67bd","toSide":"left"},
+		{"id":"f5cd439c7a81e067","fromNode":"c833926049314049","fromSide":"left","toNode":"983856842407c38d","toSide":"right"},
+		{"id":"ac3d36fa4eff9350","fromNode":"15c81d237a9b67bd","fromSide":"bottom","toNode":"65d3c73603d11575","toSide":"top"},
+		{"id":"023ecf6e59b458d2","fromNode":"c833926049314049","fromSide":"top","toNode":"5523231d177ce714","toSide":"bottom"},
+		{"id":"e4a980bb331f91ca","fromNode":"65d3c73603d11575","fromSide":"left","toNode":"794bb5a5e4071915","toSide":"bottom","label":"Order placed"},
+		{"id":"0b04e9132b5d0b83","fromNode":"65d3c73603d11575","fromSide":"right","toNode":"22f9640e6be7f2c3","toSide":"left"},
+		{"id":"8050aee3547f5078","fromNode":"e9f00044cc0f9fc2","fromSide":"right","toNode":"c833926049314049","toSide":"left"}
+	]
+}

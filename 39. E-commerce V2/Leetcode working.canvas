@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"type":"text","text":"Leetcode.code code submission","id":"e0649d17d34684a5","x":-480,"y":-320,"width":250,"height":60},
+		{"type":"text","text":"Kafka Queue","id":"153b7e7e0432ae6a","x":240,"y":-440,"width":250,"height":60},
+		{"type":"text","text":"Worker 3","id":"d23ea61753f578fb","x":597,"y":-540,"width":250,"height":60},
+		{"type":"text","text":"Worker 1","id":"85a67e309615c062","x":594,"y":-410,"width":250,"height":60},
+		{"type":"text","text":"Worker 2","id":"bfec4fbc80a1f207","x":597,"y":-290,"width":250,"height":60},
+		{"type":"text","text":"1. Save code and return submission id\n2. Update submission status response from worker\n3. Respond to `check` API call with status","id":"391f3453cb2e6b9f","x":520,"y":-40,"width":230,"height":260},
+		{"type":"text","text":"Inventory","id":"2a279625e07aa97c","x":-120,"y":-320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"cf77a8a513ebf697","fromNode":"e0649d17d34684a5","fromSide":"right","toNode":"2a279625e07aa97c","toSide":"left"},
+		{"id":"896e37afa9ef4c04","fromNode":"2a279625e07aa97c","fromSide":"right","toNode":"153b7e7e0432ae6a","toSide":"left"},
+		{"id":"edbbe58ccc995583","fromNode":"153b7e7e0432ae6a","fromSide":"right","toNode":"85a67e309615c062","toSide":"left"},
+		{"id":"1ca179af21ec5fcf","fromNode":"153b7e7e0432ae6a","fromSide":"right","toNode":"bfec4fbc80a1f207","toSide":"left"},
+		{"id":"a64aed712fd7a74e","fromNode":"153b7e7e0432ae6a","fromSide":"right","toNode":"d23ea61753f578fb","toSide":"left"},
+		{"id":"d8181bffa6ded230","fromNode":"391f3453cb2e6b9f","fromSide":"left","toNode":"2a279625e07aa97c","toSide":"right","label":"submission id"},
+		{"id":"81bc20f4822a2c41","fromNode":"2a279625e07aa97c","fromSide":"bottom","toNode":"391f3453cb2e6b9f","toSide":"bottom","label":"check submission response"},
+		{"id":"07278b150d8d49c8","fromNode":"bfec4fbc80a1f207","fromSide":"right","toNode":"391f3453cb2e6b9f","toSide":"right","label":"update status when evaluation complete"}
+	]
+}

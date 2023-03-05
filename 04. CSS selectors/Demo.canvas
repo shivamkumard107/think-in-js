@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"text","text":"universal selectors","id":"00bc78a3851e5070","x":-282,"y":238,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"CSS is created","id":"ec62b3e6d5e235e2","x":-119,"y":30,"width":250,"height":60,"color":"1"},
+		{"type":"text","text":"pesudo selectors","id":"3d038cda1a25eb53","x":37,"y":238,"width":250,"height":60,"color":"2"},
+		{"type":"text","text":"Html is created","id":"5e2e06f050ed746d","x":-119,"y":-209,"width":250,"height":60,"color":"5"},
+		{"type":"file","file":"07. Flexbox and its Properties/Flexbox and its Properties.md","id":"0523e70c5a878e93","x":-420,"y":-426,"width":223,"height":247}
+	],
+	"edges":[
+		{"id":"31fcca2665f2b89d","fromNode":"3d038cda1a25eb53","fromSide":"top","toNode":"ec62b3e6d5e235e2","toSide":"bottom"},
+		{"id":"0969a40e643fc556","fromNode":"00bc78a3851e5070","fromSide":"top","toNode":"ec62b3e6d5e235e2","toSide":"bottom"},
+		{"id":"b07650c2403ba088","fromNode":"ec62b3e6d5e235e2","fromSide":"top","toNode":"5e2e06f050ed746d","toSide":"bottom","label":"css linking"}
+	]
+}
