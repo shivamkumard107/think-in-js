@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f1a96aed7377478",
+  "active": "cc5cc3e50163c050",
   "lastOpenFiles": [
     "Screenshot 2023-03-05 at 9.17.13 PM.png",
     "16. Functions in JS/Functions in JS.md",
-    "README.md.md",
+    "README.md",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
