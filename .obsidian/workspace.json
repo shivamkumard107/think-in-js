@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3939f5498d742ed4",
+        "id": "20c1d4e3c411b042",
         "type": "tabs",
         "children": [
           {
-            "id": "5f1a96aed7377478",
+            "id": "00ad2b9397a8af3c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "856f94ad36403cf2",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -93,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,30 +163,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc5cc3e50163c050",
+  "active": "00ad2b9397a8af3c",
   "lastOpenFiles": [
-    "Screenshot 2023-03-05 at 9.17.13 PM.png",
-    "16. Functions in JS/Functions in JS.md",
-    "README.md",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
+    "39. E-commerce V2/E-commerce HLD.canvas",
+    "41. E-commerce V4/Relationshop between entities.canvas",
+    "README.md",
+    "assets/graph-demo.png",
     "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.07 PM.png",
+    "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
     "assets/Screenshot 2023-02-26 at 5.26.33 PM.png",
     "assets/Screenshot 2023-02-12 at 2.16.21 PM.png",
     "assets/Screenshot 2023-02-12 at 2.09.37 PM.png",
     "assets/Screenshot 2023-02-12 at 1.49.18 PM.png",
-    "assets/Pasted image 20230226180007.png",
+    "39. E-commerce V2/Leetcode working.canvas",
+    "39. E-commerce V2/Setup E-commerce.md",
+    "16. Functions in JS/Functions in JS.md",
     "41. E-commerce V4/Reference Relationship Example.md",
     "41. E-commerce V4/Pagination.md",
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
     "41. E-commerce V4/Embedded Relationship Example.md",
     "41. E-commerce V4/Relationships.md",
-    "41. E-commerce V4/Relationshop between entities.canvas",
     "40. E-commerce V3/E-commerce V3.md",
     "41. E-commerce V4",
-    "39. E-commerce V2/Setup E-commerce.md",
     "40. E-commerce V3",
     "34. Databases/JSON vs BSON.md",
     "07. Flexbox and its Properties/Flexbox and its Properties.md",
@@ -223,8 +208,6 @@
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
     "04. CSS selectors/Demo.canvas",
-    "39. E-commerce V2/E-commerce HLD.canvas",
-    "39. E-commerce V2/Leetcode working.canvas",
     "39. E-commerce V2",
     "assets",
     "38.1. Ecommerce Project Setup",

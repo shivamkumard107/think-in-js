@@ -5,7 +5,11 @@ Use any editor to view and edit these notes but I suggest to use *Obsidian* as t
 2. You will be missing out on all the **.canvas** file. Obsidian canvas is awesome. 
 3. and the Obsidian **Graph View** 🤤
 
-![alt text](https://github.com/shivamkumard107/think-in-js/blob/master/Screenshot%202023-03-05%20at%209.17.13%20PM.png)
+### Graph View
+![alt text](./assets/graph-demo.png)
+
+### Canvas 
+![canvas](./assets/canvas-demo.png)
 
 ## Obsidian Settings
 1. Theme: Things
