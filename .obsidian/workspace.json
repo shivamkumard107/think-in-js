@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20c1d4e3c411b042",
+        "id": "a31b4f45e0c0cc18",
         "type": "tabs",
         "children": [
           {
-            "id": "00ad2b9397a8af3c",
+            "id": "1511c071e684a243",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -163,8 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "00ad2b9397a8af3c",
+  "active": "1511c071e684a243",
   "lastOpenFiles": [
+    "27. Event Delegation & Throttling and Debouncing/Event Delegation & Throttling and Debouncing.md",
+    "27. Event Delegation & Throttling and Debouncing/Throttling.md",
+    "28. Calculator & Snake Game/Calculator & Snake Game.md",
+    "27. Event Delegation & Throttling and Debouncing/Debouncing.md",
+    "26. TODO List & localStorage/TODO List & localStorage.md",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "41. E-commerce V4/Relationshop between entities.canvas",
@@ -201,10 +206,6 @@
     "32. Templating, Req and Post/Templating.md",
     "32. Templating, Req and Post/Express app methods.md",
     "31. Node Js and Express/Node Package Manager (NPM).md",
-    "31. Node Js and Express/Express (Framework).md",
-    "31. Node Js and Express/Don't use node for this.md",
-    "38.1. Ecommerce Project Setup/Utils.md",
-    "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
     "04. CSS selectors/Demo.canvas",
