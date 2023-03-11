@@ -46,7 +46,6 @@ NoSQL
 ### 🐞 Components of the web
 
 1.  Web Pages
-    
     1.  Anything rendered by your browser
 2.  Web Sites
 3.  Web Servers

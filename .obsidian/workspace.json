@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a31b4f45e0c0cc18",
+        "id": "4f3edbafb9fde32d",
         "type": "tabs",
         "children": [
           {
-            "id": "1511c071e684a243",
+            "id": "d2db7c6e375f3f73",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "42. Authentication/Cookies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5dad1c4ee3abc8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "42. Authentication/Browser storage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "index",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.50390243530273
+    "width": 276.50390243530273
   },
   "right": {
     "id": "554e0fcba5ac3627",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "42. Authentication/Browser storage.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "42. Authentication/Browser storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "42. Authentication/Browser storage.md"
+              }
             }
           },
           {
@@ -145,11 +166,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +186,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1511c071e684a243",
+  "active": "a5dad1c4ee3abc8a",
   "lastOpenFiles": [
+    "42. Authentication/Sessions.md",
+    "42. Authentication/Cookies.md",
+    "42. Authentication/Browser storage.md",
+    "42. Authentication/Cookie Example.md",
+    "Browser storage.md",
+    "Cookies.md",
+    "42. Authentication",
+    "01. Introduction & HTML tags/Web and HTML Intro.md",
+    "35. MongoDB commands/MongoDB introduction.md",
     "27. Event Delegation & Throttling and Debouncing/Event Delegation & Throttling and Debouncing.md",
     "27. Event Delegation & Throttling and Debouncing/Throttling.md",
     "28. Calculator & Snake Game/Calculator & Snake Game.md",
@@ -198,14 +230,6 @@
     "07. Flexbox and its Properties/Flexbox and its Properties.md",
     "09. Media Query and Animations/Media Query and Animations.md",
     "10. CSS Grids and GridLayout/CSS Grids and GridLayout.md",
-    "18. Higher Order f(n), Closure & Array methods/Higher Order f(n), Closure & Array methods.md",
-    "17 Javascript Question Practice/Javascript Question Practice.md",
-    "29. jQuery AJAX/Library Vs Framework Comparison.md",
-    "05. Specificity and Inheritance/Specificity and Inheritance.md",
-    "Nunjucks.md",
-    "32. Templating, Req and Post/Templating.md",
-    "32. Templating, Req and Post/Express app methods.md",
-    "31. Node Js and Express/Node Package Manager (NPM).md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
     "04. CSS selectors/Demo.canvas",
