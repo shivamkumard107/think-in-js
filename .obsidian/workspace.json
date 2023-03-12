@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d2db7c6e375f3f73",
+            "id": "8db9a3bfcd043230",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42. Authentication/Cookies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5dad1c4ee3abc8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "42. Authentication/Browser storage.md",
-                "mode": "source",
+                "file": "36. Mongoose/Mongoose.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "42. Authentication/Browser storage.md",
+                "file": "36. Mongoose/Mongoose.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "42. Authentication/Browser storage.md",
+                "file": "36. Mongoose/Mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "42. Authentication/Browser storage.md"
+                "file": "36. Mongoose/Mongoose.md"
               }
             }
           },
@@ -186,11 +173,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5dad1c4ee3abc8a",
+  "active": "8db9a3bfcd043230",
   "lastOpenFiles": [
-    "42. Authentication/Sessions.md",
+    "35. MongoDB commands/Object Document Mapper.md",
     "42. Authentication/Cookies.md",
+    "36. Mongoose/Mongoose.md",
     "42. Authentication/Browser storage.md",
+    "42. Authentication/Sessions.md",
     "42. Authentication/Cookie Example.md",
     "Browser storage.md",
     "Cookies.md",
@@ -228,8 +217,6 @@
     "40. E-commerce V3",
     "34. Databases/JSON vs BSON.md",
     "07. Flexbox and its Properties/Flexbox and its Properties.md",
-    "09. Media Query and Animations/Media Query and Animations.md",
-    "10. CSS Grids and GridLayout/CSS Grids and GridLayout.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
     "04. CSS selectors/Demo.canvas",
