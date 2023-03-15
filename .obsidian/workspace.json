@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4f3edbafb9fde32d",
+        "id": "89b14da02c1c305c",
         "type": "tabs",
         "children": [
           {
-            "id": "8db9a3bfcd043230",
+            "id": "348fc8fb0a995aa8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "36. Mongoose/Mongoose.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "36. Mongoose/Mongoose.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "36. Mongoose/Mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "36. Mongoose/Mongoose.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,24 +165,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8db9a3bfcd043230",
+  "active": "348fc8fb0a995aa8",
   "lastOpenFiles": [
-    "35. MongoDB commands/Object Document Mapper.md",
-    "42. Authentication/Cookies.md",
+    "43. Authentication/Authentication.md",
+    "43. Authentication/Authentication Example.md",
+    "42. Cookies And Sessions/Sessions.md",
+    "43. Authentication/Authorization.md",
+    "26. TODO List & localStorage/TODO List & localStorage.md",
+    "26. TODO List & localStorage/Local Storage in Browser.md",
+    "43. Authentication",
+    "42. Cookies And Sessions/Browser storage.md",
+    "42. Cookies And Sessions/Cookies.md",
+    "42. Cookies And Sessions/Cookie Example.md",
+    "36. Mongoose/save().md",
     "36. Mongoose/Mongoose.md",
-    "42. Authentication/Browser storage.md",
-    "42. Authentication/Sessions.md",
-    "42. Authentication/Cookie Example.md",
+    "35. MongoDB commands/Object Document Mapper.md",
     "Browser storage.md",
     "Cookies.md",
-    "42. Authentication",
+    "42. Cookies And Sessions",
     "01. Introduction & HTML tags/Web and HTML Intro.md",
     "35. MongoDB commands/MongoDB introduction.md",
     "27. Event Delegation & Throttling and Debouncing/Event Delegation & Throttling and Debouncing.md",
     "27. Event Delegation & Throttling and Debouncing/Throttling.md",
     "28. Calculator & Snake Game/Calculator & Snake Game.md",
     "27. Event Delegation & Throttling and Debouncing/Debouncing.md",
-    "26. TODO List & localStorage/TODO List & localStorage.md",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "41. E-commerce V4/Relationshop between entities.canvas",
@@ -210,13 +208,8 @@
     "41. E-commerce V4/Reference Relationship Example.md",
     "41. E-commerce V4/Pagination.md",
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
-    "41. E-commerce V4/Embedded Relationship Example.md",
-    "41. E-commerce V4/Relationships.md",
-    "40. E-commerce V3/E-commerce V3.md",
     "41. E-commerce V4",
     "40. E-commerce V3",
-    "34. Databases/JSON vs BSON.md",
-    "07. Flexbox and its Properties/Flexbox and its Properties.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
     "04. CSS selectors/Demo.canvas",
