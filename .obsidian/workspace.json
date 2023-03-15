@@ -11,8 +11,24 @@
             "id": "348fc8fb0a995aa8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "39. E-commerce V2/Use Winston.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9f83d03983a17d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "39. E-commerce V2/Use Winston.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "index",
+                "query": "winston",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "39. E-commerce V2/Use Winston.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "39. E-commerce V2/Use Winston.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "39. E-commerce V2/Use Winston.md"
+              }
             }
           },
           {
@@ -167,6 +187,8 @@
   },
   "active": "348fc8fb0a995aa8",
   "lastOpenFiles": [
+    "39. E-commerce V2/Setup E-commerce.md",
+    "39. E-commerce V2/Use Winston.md",
     "43. Authentication/Authentication.md",
     "43. Authentication/Authentication Example.md",
     "42. Cookies And Sessions/Sessions.md",
@@ -203,11 +225,9 @@
     "assets/Screenshot 2023-02-12 at 2.09.37 PM.png",
     "assets/Screenshot 2023-02-12 at 1.49.18 PM.png",
     "39. E-commerce V2/Leetcode working.canvas",
-    "39. E-commerce V2/Setup E-commerce.md",
     "16. Functions in JS/Functions in JS.md",
     "41. E-commerce V4/Reference Relationship Example.md",
     "41. E-commerce V4/Pagination.md",
-    "41. E-commerce V4/Deleting Relations on Document Delete.md",
     "41. E-commerce V4",
     "40. E-commerce V3",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",

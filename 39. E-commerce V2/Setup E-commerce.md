@@ -32,4 +32,4 @@ Linting is a tool for identifying and reporting on patterns found in code, with 
 `npm init @eslint/config`
 
 ## Winston
-A multi-transport async logging library for Node.js
+A multi-transport async logging library for Node.js. [[Use Winston]]
