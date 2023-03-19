@@ -19,4 +19,4 @@ This approach has several benefits:
 2. reverse-engineer the hash to password is not possible
 3. Salt can be added to the password hash, which adds an additional layer of security. A salt is a random string that is added to the password before hashing
 
-#### [[Authentication Example |Example]]
+#### [[Authentication Example |See Example]]

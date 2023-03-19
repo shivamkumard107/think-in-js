@@ -17,8 +17,8 @@
 ## High Level Design (HLD)
 [[E-commerce HLD.canvas]]
 
-## Vertical Vs Horizontail Scaling
-Horizontal scaling means scaling by **adding more machines** to your pool of resources (also described as **"scaling out"**), whereas vertical scaling refers to scaling by **adding more power** (e.g. CPU, RAM) to an existing machine (also described as **"scaling up"**).
+## Vertical Vs Horizontal Scaling
+Horizontal scaling means scaling by **adding more machines** to your pool of resources (also described as **"scaling out"**), whereas vertical scaling refers to scaling by **adding more power** (e.g. CPU, RAM) to an existing machine (also described as **"scaling up"**)
 
 ## Consistent Hashing
 Consistent Hashing is a distributed hashing scheme that operates independently of the number of servers or objects in a distributed hash table by assigning them a position on an abstract circle, or hash ring. This allows servers and objects to scale without affecting the overall system.
