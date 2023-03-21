@@ -7,7 +7,9 @@ Joi is a popular validation library for Node.js that makes it easy to validate a
 
 Install Joi:
 
-`npm install joi`
+```bash
+npm install joi
+```
 
 Create a validation schema using Joi:
 
@@ -23,9 +25,7 @@ const userSchema = Joi.object({
 ```
 In this example, we define a validation schema for a user object with four properties: name, email, password, and age. Each property is validated using a Joi method, such as string() or number(), and chained with other validation rules, such as required() or min().
 
-    Use the schema to validate user input:
-
-javascript
+Use the schema to validate user input:
 
 ```js
 app.post('/register', (req, res) => {
@@ -52,12 +52,9 @@ By using Joi to validate and sanitize user input on the server side, you can ens
 ##### Where to add validations in Web? Frontend or Backend.
 Both frontend and backend validations are important for a robust and secure web application.
 
-Frontend validations are used to provide immediate feedback to the user when they submit a form or interact with your application. They can help prevent simple mistakes such as missing or incorrect data. Frontend validations are typically implemented using JavaScript and run in the user's browser.
-
-Backend validations are used to ensure that the data received from the frontend is valid, consistent, and secure. They can prevent more complex attacks such as SQL injection and cross-site scripting (XSS) attacks. 
-
 Both frontend backend validations are required:
-1. frontend validations can be bypassed by a malicious user, 
-2. someone who disables JavaScript in their browser
-3. backend api usage via postman or any other api client instead of web
+1. provide immediate feedback to the user without quering backend
+2. frontend validations can be bypassed by a malicious user, 
+3. someone who disables JavaScript in their browser
+4. backend api usage via postman or any other api client instead of web
 

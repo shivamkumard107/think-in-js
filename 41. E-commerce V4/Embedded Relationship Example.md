@@ -23,8 +23,6 @@ The `postSchema` defines the structure of a post document, with fields for the t
 
 To create a new post with comments, you could do something like this:
 
-javascript
-
 ```js
 const newPost = new Post({
   title: "My First Blog Post",

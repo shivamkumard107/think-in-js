@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d125697cbe3f62de",
+        "id": "45a4c2ea4aa87913",
         "type": "tabs",
         "children": [
           {
-            "id": "a02865f19f6d2995",
+            "id": "99d661a080942596",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -166,8 +173,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a02865f19f6d2995",
+  "active": "99d661a080942596",
   "lastOpenFiles": [
+    "assets/graph-demo.png",
+    "README.md",
+    "Untitled.md",
+    "assets/canvas-demo.png",
+    "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
+    "assets/Screenshot 2023-02-26 at 5.31.07 PM.png",
+    "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
+    "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
+    "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
+    "44. E-commerce v6/Passport.js local mongoose.md",
+    "45. E-commerce v7/Validations.md",
+    "45. E-commerce v7/Authorisation.md",
+    "41. E-commerce V4/Embedded Relationship Example.md",
+    "41. E-commerce V4/Relationships.md",
+    "41. E-commerce V4/Pagination.md",
+    "41. E-commerce V4/Relationshop between entities.canvas",
+    "41. E-commerce V4/Reference Relationship Example.md",
+    "41. E-commerce V4/Example.md",
+    "40. E-commerce V3/E-commerce V3.md",
+    "43. Authentication/Authorization.md",
     "34. Databases/JSON vs BSON.md",
     "33. REST/REST.md",
     "28. Calculator & Snake Game/Calculator & Snake Game.md",
@@ -178,42 +205,20 @@
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
     "29. jQuery AJAX/AJAX.md",
     "20. this, Async programming & Web APIs/Async Programming.md",
-    "45. E-commerce v7/Validations.md",
     "45. E-commerce v7",
     "04. CSS selectors/CSS selectors.md",
     "27. Event Delegation & Throttling and Debouncing/Throttling.md",
     "27. Event Delegation & Throttling and Debouncing/Event Delegation & Throttling and Debouncing.md",
     "27. Event Delegation & Throttling and Debouncing/Debouncing.md",
     "38. Error Handling/Error Handling.md",
-    "38.1. Ecommerce Project Setup/Utils.md",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "39. E-commerce V2/Leetcode working.canvas",
-    "39. E-commerce V2/Setup E-commerce.md",
-    "39. E-commerce V2/Use Winston.md",
-    "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
-    "43. Authentication/Authentication.md",
-    "40. E-commerce V3/E-commerce V3.md",
-    "41. E-commerce V4/Relationshop between entities.canvas",
-    "41. E-commerce V4/Relationships.md",
-    "41. E-commerce V4/Reference Relationship Example.md",
-    "41. E-commerce V4/Pagination.md",
-    "41. E-commerce V4/Embedded Relationship Example.md",
-    "24. DOM (Document Object Model)/DOM (Document Object Model).md",
-    "43. Authentication/Authorization.md",
     "04. CSS selectors/Demo.canvas",
     "44. E-commerce v6",
     "43. Authentication",
     "42. Cookies And Sessions",
-    "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
-    "assets/graph-demo.png",
-    "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.31.07 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
     "assets/Screenshot 2023-02-26 at 5.26.33 PM.png",
     "assets/Screenshot 2023-02-12 at 2.16.21 PM.png",
-    "assets/Screenshot 2023-02-12 at 2.09.37 PM.png",
-    "assets/Screenshot 2023-02-12 at 1.49.18 PM.png",
     "41. E-commerce V4",
     "40. E-commerce V3",
     "39. E-commerce V2",

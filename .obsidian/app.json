@@ -1,7 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
   "rightToLeft": false
