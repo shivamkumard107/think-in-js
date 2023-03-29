@@ -47,3 +47,17 @@ To set a session variable, we simply assign a value to `req.session.myVariable`.
 To retrieve a session variable, we use `req.session.myVariable`. The value is automatically retrieved from the session data, and can be used in the response.
 
 Note that the `express-session` middleware automatically creates a new session and associated session ID for each new user that visits the site. The session ID is typically stored in a cookie, which is sent back to the server with each subsequent request. The session data is stored on the server, and is associated with the session ID.
+
+
+Animation 
+
+Positive threshold
+1. Time Spent
+2. Share
+3. Bookmark
+
+-> Add bottom bar on same card
+-> Add next news card related to current news
+
+Negative threshold
+1. Time Spent

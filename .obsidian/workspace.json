@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "45a4c2ea4aa87913",
+        "id": "de77ddfa2e897573",
         "type": "tabs",
         "children": [
           {
-            "id": "99d661a080942596",
+            "id": "8163a1d8251a754d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "36. Mongoose/Mongoose.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a6b490697242b8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "36. Mongoose/CSR vs SSR.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "36. Mongoose/CSR vs SSR.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "36. Mongoose/CSR vs SSR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "36. Mongoose/CSR vs SSR.md"
               }
             }
           },
@@ -173,11 +186,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99d661a080942596",
+  "active": "5a6b490697242b8f",
   "lastOpenFiles": [
-    "assets/graph-demo.png",
+    "36. Mongoose/Mongoose.md",
+    "36. Mongoose/CSR vs SSR.md",
+    "42. Cookies And Sessions/Sessions.md",
+    "42. Cookies And Sessions/Cookies.md",
+    "42. Cookies And Sessions/Browser storage.md",
+    "42. Cookies And Sessions/Cookie Example.md",
+    "43. Authentication/Authorization.md",
+    "43. Authentication/Authentication.md",
+    "43. Authentication/Authentication Example.md",
     "README.md",
-    "Untitled.md",
+    "Seller Authorization.md",
+    "46. E-commerce v8/Untitled",
+    "46. E-commerce v8",
+    "assets/graph-demo.png",
     "assets/canvas-demo.png",
     "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.07 PM.png",
@@ -194,7 +218,6 @@
     "41. E-commerce V4/Reference Relationship Example.md",
     "41. E-commerce V4/Example.md",
     "40. E-commerce V3/E-commerce V3.md",
-    "43. Authentication/Authorization.md",
     "34. Databases/JSON vs BSON.md",
     "33. REST/REST.md",
     "28. Calculator & Snake Game/Calculator & Snake Game.md",
@@ -203,14 +226,7 @@
     "38.1. Ecommerce Project Setup/E-commerce Website.md",
     "29. jQuery AJAX/axios.md",
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
-    "29. jQuery AJAX/AJAX.md",
-    "20. this, Async programming & Web APIs/Async Programming.md",
     "45. E-commerce v7",
-    "04. CSS selectors/CSS selectors.md",
-    "27. Event Delegation & Throttling and Debouncing/Throttling.md",
-    "27. Event Delegation & Throttling and Debouncing/Event Delegation & Throttling and Debouncing.md",
-    "27. Event Delegation & Throttling and Debouncing/Debouncing.md",
-    "38. Error Handling/Error Handling.md",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "39. E-commerce V2/Leetcode working.canvas",
     "04. CSS selectors/Demo.canvas",
@@ -222,8 +238,6 @@
     "41. E-commerce V4",
     "40. E-commerce V3",
     "39. E-commerce V2",
-    "assets",
-    "38.1. Ecommerce Project Setup",
-    "38. Error Handling"
+    "assets"
   ]
 }

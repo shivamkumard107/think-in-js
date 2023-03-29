@@ -1,0 +1,12 @@
+## Client Side Rendering
+Client-side rendering involves **using JavaScript code that runs in the user's browser to dynamically generate the content of a web page**. This means that the browser retrieves the HTML, CSS, and JavaScript files needed to display the page from the server, and then the JavaScript code runs to generate the content that the user sees. This approach provides a faster initial page load, as the server sends only the necessary data to the client and the rendering is done locally. However, it can also result in slower subsequent page loads as the JavaScript needs to run again for each subsequent page.
+
+## Server Side Rendering
+Server-side rendering involves **generating the content of a web page on the server and then sending the fully rendered page to the client**. This approach provides a slower initial page load as the server needs to generate the entire page before sending it to the client. However, it can provide faster subsequent page loads, as the server only needs to send the changes made since the last request, such as updated data or modified HTML.
+
+### Example
+**Client-side rendering**: When a user visits the e-commerce website, **the server sends the necessary HTML, CSS, and JavaScript files to the user's browser**. The browser loads the files and e**xecutes the JavaScript code to fetch the product data from the server** via an API. Once the data is fetched, the JavaScript code dynamically generates the product list on the client-side, and the user sees the list of products on their screen.
+
+**Server-side rendering**: When a user visits the e-commerce website, the server generates the product list HTML, including the product data, on the server-side. The **fully rendered HTML is then sent to the user's browser**, which displays the product list to the user. If the user interacts with the website, such as filtering the list or adding a product to their cart, the browser sends requests to the server, which generates new HTML with the updated data and sends it back to the browser for display.
+
+In this example, client-side rendering provides a **faster initial load time**, but subsequent interactions may be **slower** as the JavaScript code needs to execute again. Server-side rendering, on the other hand, may provide a **slower initial load time** but can provide **faster subsequent interaction**s as the server can send only the updated data to the client, rather than having to regenerate the entire page.
