@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "de77ddfa2e897573",
+        "id": "3822f316b04ad76e",
         "type": "tabs",
         "children": [
           {
-            "id": "8163a1d8251a754d",
+            "id": "c81751ccd77be617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "36. Mongoose/Mongoose.md",
+                "file": "42. Cookies And Sessions/Cookie Example.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5a6b490697242b8f",
+            "id": "d4d53a5767d67d8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "36. Mongoose/CSR vs SSR.md",
+                "file": "E-commerce lecture wise progress.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "|",
+                "query": "flash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "36. Mongoose/CSR vs SSR.md",
+                "file": "E-commerce lecture wise progress.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "36. Mongoose/CSR vs SSR.md",
+                "file": "E-commerce lecture wise progress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "36. Mongoose/CSR vs SSR.md"
+                "file": "E-commerce lecture wise progress.md"
               }
             }
           },
@@ -186,19 +186,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5a6b490697242b8f",
+  "active": "d4d53a5767d67d8f",
   "lastOpenFiles": [
-    "36. Mongoose/Mongoose.md",
-    "36. Mongoose/CSR vs SSR.md",
-    "42. Cookies And Sessions/Sessions.md",
+    "42. Cookies And Sessions/connect-flash.md",
+    "E-commerce lecture wise progress.md",
     "42. Cookies And Sessions/Cookies.md",
-    "42. Cookies And Sessions/Browser storage.md",
     "42. Cookies And Sessions/Cookie Example.md",
-    "43. Authentication/Authorization.md",
-    "43. Authentication/Authentication.md",
-    "43. Authentication/Authentication Example.md",
-    "README.md",
-    "Seller Authorization.md",
+    "42. Cookies And Sessions/Sessions.md",
+    "42. Cookies And Sessions/Browser storage.md",
+    "39. E-commerce V2/Use Winston.md",
+    "41. E-commerce V4/Reference Relationship Example.md",
+    "38.1. Ecommerce Project Setup/E-commerce Website.md",
+    "41. E-commerce V4/Deleting Relations on Document Delete.md",
+    "39. E-commerce V2/Setup E-commerce.md",
+    "39. E-commerce V2/Leetcode working.canvas",
+    "39. E-commerce V2/E-commerce HLD.canvas",
+    "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
+    "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
+    "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
+    "38. Error Handling/Error Handling and Logging.md",
+    "34. Databases/File System Storage.md",
+    "35. MongoDB commands/MongoDB introduction.md",
+    "34. Databases/JSON vs BSON.md",
+    "36. Mongoose/CSR vs SSR.md",
+    "Pug.md",
+    "32. Templating, Req and Post/Templating.md",
+    "33. REST/REST.md",
+    "32. Templating, Req and Post/Middlewares.md",
+    "32. Templating, Req and Post/Express app methods.md",
+    "35. MongoDB commands/Object Document Mapper.md",
+    "46. E-commerce v8/Deployement (E-commerce).md",
+    "46. E-commerce v8/Seller Authorization.md",
+    "47. Socket/Real Time Communication.md",
+    "47. Socket",
     "46. E-commerce v8/Untitled",
     "46. E-commerce v8",
     "assets/graph-demo.png",
@@ -208,27 +228,8 @@
     "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
     "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
     "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
-    "44. E-commerce v6/Passport.js local mongoose.md",
-    "45. E-commerce v7/Validations.md",
-    "45. E-commerce v7/Authorisation.md",
-    "41. E-commerce V4/Embedded Relationship Example.md",
-    "41. E-commerce V4/Relationships.md",
-    "41. E-commerce V4/Pagination.md",
     "41. E-commerce V4/Relationshop between entities.canvas",
-    "41. E-commerce V4/Reference Relationship Example.md",
-    "41. E-commerce V4/Example.md",
-    "40. E-commerce V3/E-commerce V3.md",
-    "34. Databases/JSON vs BSON.md",
-    "33. REST/REST.md",
-    "28. Calculator & Snake Game/Calculator & Snake Game.md",
-    "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
-    "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
-    "38.1. Ecommerce Project Setup/E-commerce Website.md",
-    "29. jQuery AJAX/axios.md",
-    "41. E-commerce V4/Deleting Relations on Document Delete.md",
     "45. E-commerce v7",
-    "39. E-commerce V2/E-commerce HLD.canvas",
-    "39. E-commerce V2/Leetcode working.canvas",
     "04. CSS selectors/Demo.canvas",
     "44. E-commerce v6",
     "43. Authentication",
@@ -237,7 +238,6 @@
     "assets/Screenshot 2023-02-12 at 2.16.21 PM.png",
     "41. E-commerce V4",
     "40. E-commerce V3",
-    "39. E-commerce V2",
-    "assets"
+    "39. E-commerce V2"
   ]
 }
