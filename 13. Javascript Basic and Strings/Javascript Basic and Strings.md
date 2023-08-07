@@ -1,20 +1,20 @@
-1.  Basics
-2.  Primitives
-    1. No data types in Javascript. Only type of data (primitives) exists (table below)
-3.  Console REPL (Read Evaluate Prompt Loop)
-4.  variables
-5.  typeof
-    1. Infinity and NaN
-6.  let
-7.  Strongly Vs Weakly typed
-    1. int a = 10;
-    2. In some language type cannot be changed, some language type can be changed throughout the program 
-    3. Strongly: Java, C, C++ 
-    4. Weakly: Javascript, Pearl, Ruby, Python  
-8.  Statically Vs Dynamically typed
-    1. Dynamically typed: Decide Datatype at run time
-    2. Statically typed is variable datatype decided before program execution
-9.  Undefined Vs Null
+1. Basics
+2. Primitives
+	1. No data types in Javascript. Only type of data (primitives) exists (table below)
+3. Console REPL (Read Evaluate Prompt Loop)
+4. variables
+5. typeof
+	1. Infinity and NaN
+6. let
+7. Strongly Vs Weakly typed
+	1. int a = 10;
+	2. In some language type cannot be changed, some language type can be changed throughout the program 
+	3. Strongly: Java, C, C++ 
+	4. Weakly: Javascript, Pearl, Ruby, Python  
+8. Statically Vs Dynamically typed
+	1. Dynamically typed: Decide Datatype at run time
+	2. Statically typed is variable datatype decided before program execution
+9. Undefined Vs Null
 
 > Primitives are immutable in Javascript
 

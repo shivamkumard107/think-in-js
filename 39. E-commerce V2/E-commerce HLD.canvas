@@ -9,9 +9,9 @@
 		{"type":"text","text":"MySQL DB","id":"983856842407c38d","x":0,"y":79,"width":160,"height":60,"color":"3"},
 		{"type":"text","text":"Inventory","id":"621f90fa1c3df50d","x":345,"y":-330,"width":250,"height":60,"color":"6"},
 		{"type":"text","text":"MongoDB","id":"83427b66718266a6","x":560,"y":-584,"width":250,"height":68,"color":"3"},
-		{"type":"text","text":"Elastic Search","id":"d9992581571bd04e","x":58,"y":-576,"width":250,"height":60,"color":"3"},
 		{"type":"text","text":"DB","id":"f9289cd50952c496","x":723,"y":-240,"width":250,"height":60,"color":"3"},
-		{"type":"text","text":"Notification Service","id":"65d3c73603d11575","x":345,"y":240,"width":250,"height":60,"color":"6"}
+		{"type":"text","text":"Notification Service","id":"65d3c73603d11575","x":345,"y":240,"width":250,"height":60,"color":"6"},
+		{"type":"text","text":"Elastic Search","id":"d9992581571bd04e","x":58,"y":-580,"width":250,"height":60,"color":"3"}
 	],
 	"edges":[
 		{"id":"b887e018e1c0ea8e","fromNode":"794bb5a5e4071915","fromSide":"right","toNode":"e9f00044cc0f9fc2","toSide":"left"},

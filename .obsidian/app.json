@@ -4,5 +4,6 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "showFrontmatter": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "attachmentFolderPath": "Microservice Architecture/1."
 }

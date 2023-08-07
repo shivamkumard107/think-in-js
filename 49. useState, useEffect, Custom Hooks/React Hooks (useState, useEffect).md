@@ -1,0 +1,7 @@
+1. **useState**: This hook allows you to add state to your functional components. It returns a state variable and a function to update that variable. useState is used to manage and update local component state.
+2. **useEffect**: This hook allows you to perform side effects in your components. It lets you run code in response to component mount, update, or unmount. You can think of it as a replacement for lifecycle methods such as componentDidMount, componentDidUpdate, and componentWillUnmount.
+3. **useContext**: This hook enables you to access the value of a context within a functional component. It allows you to consume the context data and subscribe to its changes.
+4. **useReducer**: This hook is an alternative to useState and provides a way to manage complex state logic by using a reducer function. It is similar to how reducers work in Redux.
+5. **useCallback**: This hook is used to memoize functions and prevent unnecessary re-rendering of components. It returns a memoized version of the callback function that only changes if one of the dependencies has changed.
+6. **useMemo**: This hook is used to memoize expensive calculations or operations within functional components. It returns a memoized value that only updates when one of the dependencies has changed.
+7. **useRef**: This hook allows you to create a mutable reference that persists across component renders. It is commonly used to access the underlying DOM element or to store any mutable value.

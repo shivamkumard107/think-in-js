@@ -2,10 +2,8 @@
 
 ### Model
 - Interacting with the Database
-
 ### Controller
 - Handle the HTTP request and response
-
 ### View
 - Responsible for displaying the data to the user
 - Template files

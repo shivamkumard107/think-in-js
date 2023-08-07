@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"26ec6885b43c5299","x":-370,"y":-190,"width":250,"height":60,"type":"text","text":"##### View"},
+		{"type":"text","text":"##### View","id":"26ec6885b43c5299","x":-370,"y":-190,"width":250,"height":60},
 		{"type":"text","text":"##### Controller","id":"77d7f06f3f12f9c3","x":140,"y":-190,"width":250,"height":60},
-		{"id":"0bf1e4b0f903d3ae","x":-120,"y":-380,"width":250,"height":60,"type":"text","text":"##### Model"}
+		{"type":"text","text":"##### Model","id":"0bf1e4b0f903d3ae","x":-120,"y":-380,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"160ba219a74407fe","fromNode":"26ec6885b43c5299","fromSide":"top","toNode":"0bf1e4b0f903d3ae","toSide":"left","label":"get data"},

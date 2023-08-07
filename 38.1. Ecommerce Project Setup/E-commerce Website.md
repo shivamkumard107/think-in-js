@@ -1,5 +1,4 @@
-## Project Setup
-
+### Project Setup
 1. HTML
 2. CSS
 3. JS
@@ -9,10 +8,8 @@
 7. Express
 8. MongoDB
 9. Mongoose
-
 ### Dev Tools
 1. **Babel** -> Compiler for JS, For Latest JS features, import and export class
-
 ### Initial Project Setup Steps
 1. initialise repository `npm init`
 2. install required packages 
@@ -43,15 +40,11 @@
 3. staging
 4. preprod
 5. prod
-
 ### Create database config
 1. `database.js` contains different configurations related to different project environment
 2. `index.js` contains the basic connect and disconnect database
-
 ### Project Layered Architecture
 
-
 ## Build an HLD
-
 
 ###### PS: Read about export and default export of app

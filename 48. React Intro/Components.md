@@ -1,0 +1,1 @@
+Everything inside a component. 

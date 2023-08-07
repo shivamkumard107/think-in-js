@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3822f316b04ad76e",
+        "id": "953b19c46e65d57f",
         "type": "tabs",
         "children": [
           {
-            "id": "c81751ccd77be617",
+            "id": "cfbff79f4c6037bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "42. Cookies And Sessions/Cookie Example.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d4d53a5767d67d8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "E-commerce lecture wise progress.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "flash",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "a9b49a9192919c13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 276.50390243530273
+    "width": 300.5
   },
   "right": {
     "id": "554e0fcba5ac3627",
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E-commerce lecture wise progress.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E-commerce lecture wise progress.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,24 +133,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E-commerce lecture wise progress.md"
+                "file": "README.md"
               }
-            }
-          },
-          {
-            "id": "71870d847c1e1657",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {}
-            }
-          },
-          {
-            "id": "7af5f3b60644d434",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {}
             }
           },
           {
@@ -163,6 +142,22 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "be737253878f483e",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "12e6be202ebd92ba",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
               "state": {}
             }
           }
@@ -186,58 +181,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d4d53a5767d67d8f",
+  "active": "cfbff79f4c6037bc",
   "lastOpenFiles": [
-    "42. Cookies And Sessions/connect-flash.md",
-    "E-commerce lecture wise progress.md",
+    "GPT4 response on like-unlike products.md",
+    "JSON.md",
+    "IndexDB.md",
+    "Nunjucks.md",
+    "Pug.md",
+    "assets/Pasted image 20230629075720.png",
+    "Resource/Untitled Diagram-13 - events.drawio.png",
+    "Resource/Screenshot 2023-06-29 at 8.14.41 AM.png",
+    "Untitled.md",
+    "Resource/Screenshot 2023-06-29 at 8.12.58 AM.png",
+    "47. Socket/Real Time Communication.md",
+    "46. E-commerce v8/Seller Authorization.md",
+    "46. E-commerce v8/Deployement (E-commerce).md",
+    "45. E-commerce v7/Authorisation.md",
+    "45. E-commerce v7/Validations.md",
+    "44. E-commerce v6/Passport.js local mongoose.md",
+    "43. Authentication/Authentication Example.md",
+    "43. Authentication/Authorization.md",
+    "43. Authentication/Authentication.md",
+    "42. Cookies And Sessions/Sessions.md",
     "42. Cookies And Sessions/Cookies.md",
     "42. Cookies And Sessions/Cookie Example.md",
-    "42. Cookies And Sessions/Sessions.md",
+    "42. Cookies And Sessions/connect-flash.md",
     "42. Cookies And Sessions/Browser storage.md",
-    "39. E-commerce V2/Use Winston.md",
-    "41. E-commerce V4/Reference Relationship Example.md",
-    "38.1. Ecommerce Project Setup/E-commerce Website.md",
+    "40. E-commerce V3/E-commerce V3.md",
     "41. E-commerce V4/Deleting Relations on Document Delete.md",
+    "39. E-commerce V2/Use Winston.md",
     "39. E-commerce V2/Setup E-commerce.md",
     "39. E-commerce V2/Leetcode working.canvas",
     "39. E-commerce V2/E-commerce HLD.canvas",
     "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
     "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
-    "38. Error Handling/Error Handling and Logging.md",
-    "34. Databases/File System Storage.md",
-    "35. MongoDB commands/MongoDB introduction.md",
-    "34. Databases/JSON vs BSON.md",
-    "36. Mongoose/CSR vs SSR.md",
-    "Pug.md",
-    "32. Templating, Req and Post/Templating.md",
-    "33. REST/REST.md",
-    "32. Templating, Req and Post/Middlewares.md",
-    "32. Templating, Req and Post/Express app methods.md",
-    "35. MongoDB commands/Object Document Mapper.md",
-    "46. E-commerce v8/Deployement (E-commerce).md",
-    "46. E-commerce v8/Seller Authorization.md",
-    "47. Socket/Real Time Communication.md",
-    "47. Socket",
-    "46. E-commerce v8/Untitled",
-    "46. E-commerce v8",
-    "assets/graph-demo.png",
-    "assets/canvas-demo.png",
-    "assets/Screenshot 2023-02-26 at 5.29.38 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.31.07 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.31.20 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.31.40 PM.png",
-    "assets/Screenshot 2023-02-26 at 5.33.00 PM.png",
+    "38.1. Ecommerce Project Setup/E-commerce Website.md",
+    "Resource/Screenshot 2023-06-29 at 8.39.36 AM.png",
+    "Resource/Screenshot 2023-06-29 at 8.24.54 AM.png",
+    "Resource/Screenshot 2023-06-29 at 8.21.39 AM.png",
+    "Resource/Screenshot 2023-06-29 at 8.21.10 AM.png",
+    "Resource/Untitled Diagram-06 - web.drawio.png",
+    "Resource/Screenshot 2023-06-29 at 8.13.55 AM.png",
+    "Microservice Architecture/1. Fundamentals",
+    "Microservice Architecture/4. Kubernetes Practice",
+    "Microservice Architecture/3. Docker & Kubernetes",
+    "Microservice Architecture/2. A mini microservice app",
+    "2.",
+    "Microservice Architecture",
+    "50. CSS modules",
+    "r",
+    "49. useState, useEffect, Custom Hooks",
+    "48. React Intro",
     "41. E-commerce V4/Relationshop between entities.canvas",
-    "45. E-commerce v7",
-    "04. CSS selectors/Demo.canvas",
-    "44. E-commerce v6",
-    "43. Authentication",
-    "42. Cookies And Sessions",
-    "assets/Screenshot 2023-02-26 at 5.26.33 PM.png",
-    "assets/Screenshot 2023-02-12 at 2.16.21 PM.png",
-    "41. E-commerce V4",
-    "40. E-commerce V3",
-    "39. E-commerce V2"
+    "04. CSS selectors/Demo.canvas"
   ]
 }

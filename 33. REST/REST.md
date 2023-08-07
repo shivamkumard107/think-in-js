@@ -17,12 +17,4 @@ Representational state transfer (REST) is a **software architectural style** tha
 > API implementing REST is a REST API
 
 
-### Good practices of REST
-- Versioning
-- Plural (Resources name)
-- No verbs allowed
-- Response in JSON
-- Respond with standard HTTP Error Codes
-
-[REST API Design Best Practices Handbook – How to Build a REST API with JavaScript, Node.js, and Express.js
-](https://www.freecodecamp.org/news/rest-api-design-best-practices-build-a-rest-api/)
+[[Good practices of REST]]
