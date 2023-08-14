@@ -4,22 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "953b19c46e65d57f",
+        "id": "026b702772641bb7",
         "type": "tabs",
         "children": [
           {
-            "id": "cfbff79f4c6037bc",
+            "id": "186091bc6b586c9c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "assets/Screenshot 2023-06-29 at 8.12.58 AM.png"
+              }
+            }
+          },
+          {
+            "id": "ff0a478e5710dff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "19. Scopes, Prototypes _ Constructor Functions/Scopes, Prototypes _ Constructor Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "verb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "19. Scopes, Prototypes _ Constructor Functions/Scopes, Prototypes _ Constructor Functions.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -110,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "19. Scopes, Prototypes _ Constructor Functions/Scopes, Prototypes _ Constructor Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "19. Scopes, Prototypes _ Constructor Functions/Scopes, Prototypes _ Constructor Functions.md"
               }
             }
           },
@@ -181,48 +192,48 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cfbff79f4c6037bc",
+  "active": "ff0a478e5710dff8",
   "lastOpenFiles": [
+    "18. Higher Order f(n), Closure _ Array methods/Higher Order f(n), Closure _ Array methods.md",
+    "17 Javascript Question Practice/Javascript Question Practice.md",
+    "16. Functions in JS/Functions in JS.md",
+    "31. Node Js and Express/Don't use node for this.md",
+    "47. Socket/Real Time Communication.md",
+    "assets/Untitled Diagram-13 - events.drawio.png",
+    "assets/Screenshot 2023-06-29 at 8.12.58 AM.png",
+    "E-commerce lecture wise progress.md",
+    "33. REST/Good practices of REST.md",
+    "38.1. Ecommerce Project Setup/E-commerce Website.md",
+    "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
+    "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
+    "OPJR.md",
+    "38. Error Handling/Error Handling and Logging.md",
+    "31. Node Js and Express/Node Package Manager (NPM).md",
+    "31. Node Js and Express/Express (Framework).md",
+    "30. Node Js Introduction/Process.md",
+    "30. Node Js Introduction/Node Js Introduction.md",
+    "30. Node Js Introduction/File System.md",
+    "30. Node Js Introduction/Assertion Testing.md",
+    "README.md",
     "GPT4 response on like-unlike products.md",
     "JSON.md",
     "IndexDB.md",
     "Nunjucks.md",
     "Pug.md",
     "assets/Pasted image 20230629075720.png",
-    "Resource/Untitled Diagram-13 - events.drawio.png",
-    "Resource/Screenshot 2023-06-29 at 8.14.41 AM.png",
-    "Untitled.md",
-    "Resource/Screenshot 2023-06-29 at 8.12.58 AM.png",
-    "47. Socket/Real Time Communication.md",
+    "assets/Screenshot 2023-06-29 at 8.14.41 AM.png",
     "46. E-commerce v8/Seller Authorization.md",
     "46. E-commerce v8/Deployement (E-commerce).md",
     "45. E-commerce v7/Authorisation.md",
-    "45. E-commerce v7/Validations.md",
-    "44. E-commerce v6/Passport.js local mongoose.md",
-    "43. Authentication/Authentication Example.md",
-    "43. Authentication/Authorization.md",
-    "43. Authentication/Authentication.md",
-    "42. Cookies And Sessions/Sessions.md",
-    "42. Cookies And Sessions/Cookies.md",
-    "42. Cookies And Sessions/Cookie Example.md",
-    "42. Cookies And Sessions/connect-flash.md",
-    "42. Cookies And Sessions/Browser storage.md",
-    "40. E-commerce V3/E-commerce V3.md",
-    "41. E-commerce V4/Deleting Relations on Document Delete.md",
-    "39. E-commerce V2/Use Winston.md",
-    "39. E-commerce V2/Setup E-commerce.md",
     "39. E-commerce V2/Leetcode working.canvas",
     "39. E-commerce V2/E-commerce HLD.canvas",
-    "38.1. Ecommerce Project Setup/MVC Vs Layered Architecture.md",
     "38.1. Ecommerce Project Setup/MVC Arctecture.canvas",
-    "38.1. Ecommerce Project Setup/Layered Architecture.canvas",
-    "38.1. Ecommerce Project Setup/E-commerce Website.md",
-    "Resource/Screenshot 2023-06-29 at 8.39.36 AM.png",
-    "Resource/Screenshot 2023-06-29 at 8.24.54 AM.png",
-    "Resource/Screenshot 2023-06-29 at 8.21.39 AM.png",
-    "Resource/Screenshot 2023-06-29 at 8.21.10 AM.png",
-    "Resource/Untitled Diagram-06 - web.drawio.png",
-    "Resource/Screenshot 2023-06-29 at 8.13.55 AM.png",
+    "assets/Screenshot 2023-06-29 at 8.39.36 AM.png",
+    "assets/Screenshot 2023-06-29 at 8.24.54 AM.png",
+    "assets/Screenshot 2023-06-29 at 8.21.39 AM.png",
+    "assets/Screenshot 2023-06-29 at 8.21.10 AM.png",
+    "assets/Untitled Diagram-06 - web.drawio.png",
+    "assets/Screenshot 2023-06-29 at 8.13.55 AM.png",
     "Microservice Architecture/1. Fundamentals",
     "Microservice Architecture/4. Kubernetes Practice",
     "Microservice Architecture/3. Docker & Kubernetes",

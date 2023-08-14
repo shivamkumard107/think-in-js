@@ -23,7 +23,6 @@
 6. Creating `app.js` and `server.js` 
 7. In `app.js` create and export express app, in `server.js`  create endpoints and start the server 
 
-```
 ### Scripts
 ```json
 "scripts": {

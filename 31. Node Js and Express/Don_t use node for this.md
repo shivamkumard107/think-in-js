@@ -1,1 +1,0 @@
-For high processing capabilities

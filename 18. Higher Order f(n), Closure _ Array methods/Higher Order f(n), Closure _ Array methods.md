@@ -9,7 +9,6 @@ function fun(x, y) {
 If a function accepts x, y parameter as function and/or return z as a function then it will be called a **Higher Order Function**
 
 ## 🤡 Closure
-
 Closure is a function bundled together with it’s **lexical environment**(Physical location of that function)
 
 ```js

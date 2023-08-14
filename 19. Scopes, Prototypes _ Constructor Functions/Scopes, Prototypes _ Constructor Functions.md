@@ -1,6 +1,6 @@
 ### Types of scopes
-1.  Global Scope
-2.  Functional Scope
+1. Global Scope
+2. Functional Scope
 3. Script Scope
 4. Block Scope
 
@@ -54,7 +54,7 @@ let a = 900;
 console.log(a);
 ```
 
-script and block scope
+Script and block scope
 
 ### Scope chain
 
@@ -74,7 +74,7 @@ getName();
 fun is physically present in the global scope so it will use the ‘name’ of the global scope.
 
 ## 📽️ Prototypes
-__proto__ : Dunder proto (double underscore prototyp)
+`__proto__` : Dunder proto (double underscore prototype)
 Prototypes chaining of Object
 Dunder Prototype example
 
@@ -82,8 +82,8 @@ Dunder Prototype example
 First function get called when a class is instantiated
 
 ### 🫙 Classes in JS
-1.  getters and setters can be specified with a get and set keyword
-2.  getters/setters functions of an object are called like a property. point.getX and not point.getX()
+1. Getters and setters can be specified with a get and set keyword
+2. Getters/Setters functions of an object are called like a property. point.getX and not point.getX()
 3.  Any operation performed on multiple objects can be written as static function
 4.  functions in a class don’t use function keyword. Just specify the function name
 
